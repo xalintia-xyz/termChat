@@ -1,2 +1,1 @@
-# termChat
-chetingan di termux
+<img align='center' src='src/logo.jpg'>
